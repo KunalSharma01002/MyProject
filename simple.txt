@@ -1,0 +1,3 @@
+Reading file content
+List1: This is simple text file.
+List2: It contain multiple lines.
